@@ -1,0 +1,8 @@
+~<"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\macros\relat_transit_lines.mac" %1%
+~<"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\macros\relat_itineraries.mac" %1%
+~<"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\macros\relat_nodes.mac" %1%
+~<"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\macros\set_matrix_format.mac" %1%
+~<"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\macros\relat_matriz_temp.mac" %1%
+~<"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\macros\relat_matriz_od.mac" %1%
+~<"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\macros\calc_od_imped.mac" %1%
+~<"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\macros\relat_imped.mac" %1%

@@ -1,0 +1,9 @@
+s=1%1%
+~!del "Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\resultados\transit_line_summary_hora%1%.txt"
+6.21
+1
+mode=t
+
+2
+"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\resultados\transit_line_summary_hora%1%.txt"
+q

@@ -1,0 +1,23 @@
+s=1%1%
+~!del "Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\resultados\matriz_imped_hora%1%.txt"
+3.14
+3
+mf3%1%
+
+n
+n
+y
+gs05
+gs06
+gs07
+gs09
+gs10
+
+gs05
+gs06
+gs07
+gs09
+gs10
+
+"Q:\Planejamento de Transportes\Sistemas\EMME\Simulacoes SPV\20200512-DU-ABR 2020 (COVID)\resultados\matriz_imped_hora%1%.txt"
+q
